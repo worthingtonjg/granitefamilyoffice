@@ -48,7 +48,9 @@
         {%- else -%}
           {%- assign _class = 'icon' -%}
         {%- endif -%}
+        {%- if _sect.order > 1 -%}
         <li><a href="#{{- _slug -}}" id="{{- _slug -}}-link" class="scrolly"><span class="{{ _class }} {{ _icon }}">{{- _title -}}</span></a></li>
+        {%- endif -%}
       {%- endfor -%}
     {%- endunless -%}
   </ul>
