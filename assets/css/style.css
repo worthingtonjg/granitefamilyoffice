@@ -16,6 +16,14 @@ p {
     color: #999;
 }
 
+#content li {
+    color: #999;
+}
+
+b, strong {
+    font-weight: bold
+}
+
 a,
 a:hover,
 a:focus {
@@ -144,16 +152,22 @@ a.article:hover {
     color: #fff !important;
 }
 
-.secton-light {
-    background-color: #fff;
-}
-
-.section-dark {
-    background-color: #eee;
-}
 .section-content
 {
     padding:40px;
+}
+
+.section-content:nth-child(odd) {
+    background-color: #eee;
+}
+
+#content {
+    background-color: white;
+}
+
+
+.limit-width {
+    max-width: 1000px;
 }
 
 #main {
@@ -164,6 +178,7 @@ a.article:hover {
     position: absolute;
     top: 300;
     right: 0;
+    background-color: #01445D;
 }
 
 #main.active {
@@ -182,6 +197,25 @@ a.article:hover {
     text-align:center;
 }
 
+blockquote {
+    padding: 25px;
+    border-radius: 17px;
+    background-color: #013649;
+    margin-top: 25px;
+    color:white;
+    box-shadow: 2px 2px 2px 2px #E0E0E0;
+}
+
+blockquote p { 
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
 /* ---------------------------------------------------
     MEDIAQUERIES
