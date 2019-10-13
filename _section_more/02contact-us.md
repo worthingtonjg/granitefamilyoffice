@@ -9,4 +9,4 @@ section-link: section-02
 > Suite  220<br />
 > Cedar Hills, UT 84062 USA <br />
 > Tel:   801.xxx.xxxx <br />
-> Fax: 801.xxx.xxxx <br />
+> Fax:  801-216-4362 <br />
