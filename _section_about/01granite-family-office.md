@@ -25,7 +25,7 @@ Our meticulous administrative and reporting system tracks and monitors every det
 
 The result is an efficient and concentrated focus on your investment planning, strategic wealth management, and a 360 degree view of your true wealth, whether you are on top of it or we are. How do you explain to someone in the Wealth Management business what Family Office services and “Family Bank” style planning offer as a value added service to clients?
 
-A Family Office is **not** a Registered Investment Management Firm, who claims to do just wealth management.
+A Family Office is **not** a Registered Investment Management Firm, which focuses on asset management.
 
 Family Office is like having a personal CEO, CFO, CIO and CTO for your family. 
 
