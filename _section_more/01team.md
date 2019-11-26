@@ -14,6 +14,6 @@ section-link: section-01
 - **Greg Maxwell, CFP, JD** -– Attorney/RIA, Financial and Trust Settlement Advisor
 - **Pierce McDowell III, JD** -— Senior Trust Advisor/President ~ South Dakota Trust Company
 - **Larry Peterson, CFP, MBA** – Registered Investment Advisor, Amicus Financial Advisors
-- **Ryan Thomas, JD, LL.M., Ph.D.** – Fiduciary Counsel, Tax Lawyer, and Educational Psychologist
+- **Ryan Thomas, JD, LL.M., Ph.D.** – Senior Counsel, Tax Lawyer, and Educational Psychologist
  
 
