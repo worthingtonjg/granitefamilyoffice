@@ -4,16 +4,16 @@ heading: Our Team
 section-link: section-01
 ---
 
-- **Daniel G. Worthington, JD, LL.M, Ed.D.** – Family Office Founder, Managing Member, Trust & Tax Lawyer, Consultant
-- **Kenneth B. Reilly**, Family Office Founder, Entrepreneur and Senior International Business Executive
-- **Lainey Anastasia**, Family Office Founder, Senior Business Consultant and former Senior Executive, GE Capital
-- **Donald E. Brown ~ Chief Trust Officer** – President, Family Office Services Corporation, Orlando
-- **Joyce Campbell** –- Chief Financial Officer/Comptroller
-- **Ben Everidge, M.S.**, Family Office National Director of Philanthropic Relations, Senior Development Executive and Program Related Investment Expert.
-- **JoAnn Mauch**–- Chief Operating Officer/Office Manager
-- **Greg Maxwell, CFP, JD** -– Attorney/RIA, Financial and Trust Settlement Advisor
-- **Pierce McDowell III, JD** -— Senior Trust Advisor/President ~ South Dakota Trust Company
+- **Daniel G. Worthington, JD, LL.M, Ed.D.** – Family Office Director and Tax Partner
+- **Ryan Thomas, JD, LL.M., Ph.D.** – Tax Partner and Educational Psychologist
+- **Patrick Thomas, J.D.** - Of Counsel, Intellectual Property, Patent and Trademark, Associate General Counsel, Weber State University
+- **JoAnn Mauch**–- Chief Operating Officer/Family Office Manager
+- **Joyce Campbell** –- Comptroller and Financial Services Manager
+- **Donald E. Brown ~ Chief Trust Officer** – President, Family Office Services, Orlando, FL
+- **Ben Everidge, M.S.**, Director of Philanthropic Relations, Orlando, FL
+- **Pierce McDowell III, JD** -— Senior Trust Advisor/President ~ South Dakota Trust Company, Sioux Falls, SD
+- **Greg Maxwell, CFP, JD** -– Attorney/RIA, Amicus Financial Advisors, Bountiful, UT
 - **Larry Peterson, CFP, MBA** – Registered Investment Advisor, Amicus Financial Advisors
-- **Ryan Thomas, JD, LL.M., Ph.D.** – Senior Counsel, Tax Lawyer, and Educational Psychologist
+
  
 
