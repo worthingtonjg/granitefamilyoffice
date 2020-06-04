@@ -3,7 +3,7 @@ title: Lift
 heading: L-I-F-T and the 4 P's
 section-link: section-06
 ---
-<p>Our services are centered around two principles:  we call them L-I-F-T and the 4 P’s.</p>
+<p>Our services are centered around <br>two</b> principles:  we call them L-I-F-T and the 4 P’s.</p>
 				
 <p><img src="/assets/images/lift_image1.png" class="img-responsive " /></p>
 
