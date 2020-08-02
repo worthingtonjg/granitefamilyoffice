@@ -12,8 +12,6 @@ section-link: section-01
 - **Donald E. Brown ~ Chief Trust Officer** – President, Family Office Services, Orlando, FL
 - **Ben Everidge, M.S.**, Director of Philanthropic Relations, Orlando, FL
 - **Pierce McDowell III, JD** - Senior Trust Advisor/President ~ South Dakota Trust Company, Sioux Falls, SD
-- **Greg Maxwell, CFP, JD** - Attorney/RIA, Amicus Financial Advisors, Bountiful, UT
-- **Larry Peterson, CFP, MBA** – Registered Investment Advisor, Amicus Financial Advisors
 
  
 
